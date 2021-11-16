@@ -40,7 +40,7 @@ public class Main {
     }
 
     static void booksArray(Book[] books) {
-        for (int i = 0; i < books.length; i++) {
+  
         }
         System.out.println(Arrays.toString(books));
     }
